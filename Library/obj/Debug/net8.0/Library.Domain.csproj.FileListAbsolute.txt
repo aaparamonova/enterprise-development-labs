@@ -1,0 +1,12 @@
+C:\Projects\enterprise-development-labs\Library\bin\Debug\net8.0\Library.Domain.deps.json
+C:\Projects\enterprise-development-labs\Library\bin\Debug\net8.0\Library.Domain.dll
+C:\Projects\enterprise-development-labs\Library\bin\Debug\net8.0\Library.Domain.pdb
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\Library.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\Library.Domain.AssemblyInfoInputs.cache
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\Library.Domain.AssemblyInfo.cs
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\Library.Domain.sourcelink.json
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\Library.Domain.dll
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\refint\Library.Domain.dll
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\Library.Domain.pdb
+C:\Projects\enterprise-development-labs\Library\obj\Debug\net8.0\ref\Library.Domain.dll
